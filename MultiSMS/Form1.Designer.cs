@@ -74,7 +74,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(510, 393);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.Text = "Connection";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // tlTab1
@@ -331,7 +331,7 @@
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(510, 393);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.Text = "SMS sender";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // Form1
@@ -341,7 +341,7 @@
             this.ClientSize = new System.Drawing.Size(542, 443);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "MultiSMS";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tlTab1.ResumeLayout(false);
