@@ -1,0 +1,9 @@
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\bin\Debug\MultiSMS.exe.config
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\bin\Debug\MultiSMS.exe
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\bin\Debug\MultiSMS.pdb
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\obj\Debug\MultiSMS.csprojResolveAssemblyReference.cache
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\obj\Debug\MultiSMS.Form1.resources
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\obj\Debug\MultiSMS.Properties.Resources.resources
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\obj\Debug\MultiSMS.csproj.GenerateResource.Cache
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\obj\Debug\MultiSMS.exe
+C:\Users\PStec\Source\Repos\MultiSMS\MultiSMS\obj\Debug\MultiSMS.pdb
